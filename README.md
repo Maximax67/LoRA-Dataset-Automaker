@@ -1,4 +1,7 @@
 # LoRA Dataset Automaker
+[![License](https://img.shields.io/github/license/Maximax67/LoRA-Dataset-Automaker)](https://github.com/Maximax67/LoRA-Dataset-Automaker/blob/main/LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maximax67/LoRA-Dataset-Automaker/blob/main/Dataset_Automaker.ipynb)
+
 Welcome to the Dataset Automaker Git repository housing an innovative and reliable Jupyter Notebook designed to facilitate the creation of datasets for training Stable Diffusion LoRAs.
 
 ![image.svg](./image.svg)
